@@ -1,14 +1,14 @@
 <template>
-  <MediaLayout>
-    <h1>Images</h1>
+  <Layout>
+    <h1>Media Images</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
-  </MediaLayout>
+  </Layout>
 </template>
 
 <script>
 export default {
   metaInfo: {
-    title: "Images"
+    title: "Media Images"
   }
 };
 </script>
